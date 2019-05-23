@@ -45,7 +45,7 @@ div#controlers3 {
  div#controlers4 {
     width: 34%;
 }
-.awt-vis-controls-SearchFilter .awt-searchFilter-input {
-    height: 58px !important;
-    padding: 15px !important;
+
+.input.awt-searchFilter-input {
+    height: 58px;
 }

@@ -45,12 +45,28 @@ div#controlers2 {
     width: 33% !important;
 }
 
+@media screen and (max-width: 900px) {
+
+div#controlers3 {
+    width: 100% !important;
+ }
+
+}
+
 div#controlers3 {
     width: 30% !important;
  }
 
  div#controlers4 {
     width: 34% !important;
+}
+
+@media screen and (max-width: 900px) {
+
+div#controlers4 {
+    width: 100% !important;
+ }
+
 }
 
 .awt-vis-controls-SearchFilter .awt-searchFilter-input {

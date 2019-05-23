@@ -41,11 +41,12 @@ div#controlers2 {
 
 div#controlers3 {
     width: 30% !important;
-    
+ }
+
  div#controlers4 {
-    width: 34%;
+    width: 34% !important;
 }
 
-.input.awt-searchFilter-input {
-    height: 58px;
+.awt-vis-controls-SearchFilter .awt-searchFilter-input {
+    height: 56px !important;
 }

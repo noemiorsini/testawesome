@@ -1,0 +1,51 @@
+div#controlers0 {
+    width: 100%;
+}
+
+div#controlers1 {
+    width: 100%;
+}
+
+.google-visualization-table-table .gradient, .google-visualization-table-div-page .gradient {
+    background: #007bb9!important;
+    color: white;
+    font-size: 15px;
+}
+
+.awt-vis-controls-csvFilter .awt-csvFilter-button {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.01) !important;
+    color: #444;
+    display: flex;
+    padding: 15px 15px !important;
+    vertical-align: middle;
+}
+
+.at-layout-horizontal {
+    display: block !important;
+}
+
+.at-action-menu-icon>.at-action-menu-trigger>.at-svg-icon {
+    display: none !important;
+}
+
+.at-action-menu {
+    margin: 0!important;
+    user-select: none;
+    display: none !important;
+}
+
+div#controlers2 {
+    width: 33% !important;
+}
+
+div#controlers3 {
+    width: 30% !important;
+    
+ div#controlers4 {
+    width: 34%;
+}
+.awt-vis-controls-SearchFilter .awt-searchFilter-input {
+    height: 58px !important;
+    padding: 15px !important;
+}

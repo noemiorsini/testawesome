@@ -25,6 +25,8 @@ div#controlers1 {
     display: block !important;
 }
 
+.at-action-menu { float: right;}
+
 div#controlers2 {
     width: 49% !important;
 }

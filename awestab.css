@@ -25,15 +25,6 @@ div#controlers1 {
     display: block !important;
 }
 
-.at-action-menu-icon>.at-action-menu-trigger>.at-svg-icon {
-    display: none !important;
-}
-
-.at-action-menu {
-    margin: 0!important;
-    user-select: none;
-    display: none !important;
-}
 
 @media screen and (max-width: 900px) {
 

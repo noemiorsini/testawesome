@@ -21,11 +21,6 @@ div#controlers1 {
     vertical-align: middle;
 }
 
-.at-layout-horizontal {
-    display: block !important;
-}
-
-
 @media screen and (max-width: 900px) {
 
 div#controlers2 { display: none; }
